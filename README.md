@@ -11,10 +11,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #e0f7e0;
         }
         header {
-            background-color: #333;
+            background-color: #2e7d32;
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -22,7 +22,7 @@
         nav {
             display: flex;
             justify-content: center;
-            background-color: #444;
+            background-color: #388e3c;
         }
         nav a {
             color: white;
@@ -31,13 +31,13 @@
             text-align: center;
         }
         nav a:hover {
-            background-color: #575757;
+            background-color: #4caf50;
         }
         main {
             padding: 20px;
         }
         footer {
-            background-color: #333;
+            background-color: #2e7d32;
             color: white;
             text-align: center;
             padding: 10px 0;
@@ -57,6 +57,7 @@
     <a href="#home">Strona Główna</a>
     <a href="#about">O Mnie</a>
     <a href="#contact">Kontakt</a>
+    <a href="#solar">Panele Fotowoltaiczne</a>
 </nav>
 
 <main>
@@ -73,6 +74,11 @@
     <section id="contact">
         <h2>Kontakt</h2>
         <p>Jeśli chcesz się ze mną skontaktować, wyślij wiadomość na adres email: <a href="mailto:kontakt@example.com">kontakt@example.com</a></p>
+    </section>
+
+    <section id="solar">
+        <h2>Panele Fotowoltaiczne</h2>
+        <p>Panele fotowoltaiczne to urządzenia, które przekształcają energię słoneczną w energię elektryczną. Są one ekologicznym rozwiązaniem, które pomaga zmniejszyć emisję dwutlenku węgla.</p>
     </section>
 </main>
 
