@@ -58,6 +58,7 @@
     <a href="#about">O Mnie</a>
     <a href="#contact">Kontakt</a>
     <a href="#solar">Panele Fotowoltaiczne</a>
+    <a href="#renewable">Odnawialne Źródła Energii</a>
 </nav>
 
 <main>
@@ -79,6 +80,23 @@
     <section id="solar">
         <h2>Panele Fotowoltaiczne</h2>
         <p>Panele fotowoltaiczne to urządzenia, które przekształcają energię słoneczną w energię elektryczną. Są one ekologicznym rozwiązaniem, które pomaga zmniejszyć emisję dwutlenku węgla.</p>
+        <h3>Opis Paneli</h3>
+        <ul>
+            <li>Panel A: Wysoka wydajność, cena: 1000 PLN</li>
+            <li>Panel B: Średnia wydajność, cena: 800 PLN</li>
+            <li>Panel C: Niska wydajność, cena: 600 PLN</li>
+        </ul>
+    </section>
+
+    <section id="renewable">
+        <h2>Odnawialne Źródła Energii</h2>
+        <p>Odnawialne źródła energii to takie, które są odnawialne w krótkim czasie. Przykłady to energia słoneczna, wiatrowa, wodna i geotermalna.</p>
+        <h3>Korzyści z OZE</h3>
+        <ul>
+            <li>Zmniejszenie emisji CO2</li>
+            <li>Oszczędność kosztów energii</li>
+            <li>Ochrona środowiska</li>
+        </ul>
     </section>
 </main>
 
