@@ -86,6 +86,12 @@
             <li>Panel B: Średnia wydajność, cena: 800 PLN</li>
             <li>Panel C: Niska wydajność, cena: 600 PLN</li>
         </ul>
+        <h3>Korzyści z Paneli Fotowoltaicznych</h3>
+        <ul>
+            <li>Oszczędność na rachunkach za prąd</li>
+            <li>Zmniejszenie emisji CO2</li>
+            <li>Wzrost wartości nieruchomości</li>
+        </ul>
     </section>
 
     <section id="renewable">
